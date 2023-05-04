@@ -10,7 +10,7 @@ Researchers and analysts can use the dataset to explore a variety of research qu
 
 
 ## About Dashboard: 
-The dashboard provides an interactive visualization of Olympic medal counts by country, sport, and year. The data covers all modern Olympic games from 1896 to 2016, including both Summer and Winter games. Users can filter the data by year, country, and sport, and the dashboard displays a variety of charts and graphs that visualize the medal counts in different ways. Additionally, the dashboard provides a slicer that allows users to filter the data by medal type (gold, silver, bronze). Overall, this dashboard provides a comprehensive view of Olympic medal counts over time and across different countries and sports, and allows users to easily explore and analyze the data in a variety of ways
+The dashboard provides an interactive visualization of Olympic medal counts by country, sport, and year. The data covers all modern Olympic games from 1896 to 2016, including both Summer and Winter games. Users can filter the data by year, country, and sport, and the dashboard displays a variety of charts and graphs that visualize the medal counts in different ways. Additionally, the dashboard provides a slicer that allows users to filter the data by medal type (gold, silver, bronze). Overall, this dashboard provides a comprehensive view of Olympic medal counts over time and across different countries and sports, and allows users to easily explore and analyze the data in a variety of ways.
 
 
 ## Conclusion:
