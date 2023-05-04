@@ -1,4 +1,4 @@
-## Data Link : https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+## Dataset Link : https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 
 # Olympic-Dashboard-report
